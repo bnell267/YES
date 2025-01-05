@@ -3,7 +3,7 @@
 //print_r($_REQUEST);
 
 
-include('config.php');
+include('config2.php');
 //if(isset($_POST['submit'])){
 
 
